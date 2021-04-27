@@ -6,7 +6,7 @@ This Program is Dockerized into a Docker image which can be used on any operatin
 needed to be installed for running this program.
 
 ## Instructions for using the Docker image:
-1) In the termminal, Pull the image from Docker Hub
+1) In the termminal, Pull the image from Docker Hub [https://hub.docker.com/repository/docker/zizowasfy/chatty-chat](https://hub.docker.com/repository/docker/zizowasfy/chatty-chat)
 
 ```bash
 docker pull zizowasfy/chatty-chat:latest
