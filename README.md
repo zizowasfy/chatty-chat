@@ -19,7 +19,7 @@ docker run -p 10000:5000 1510213/chatty-chat
 ```
 
 3) This creates a private server in the local network that can be accessed in any browser through the following *http* link 
-[http://127.0.0.1:10000/](http://127.0.0.1:10000/)
+[http://localhost:10000/](http://localhost:10000/)
 Start with the user *admin*, password *admin*.
 
 
