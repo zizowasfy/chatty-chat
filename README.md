@@ -23,7 +23,7 @@ needed to be installed for running this program.
 Start with the user *admin*, password *admin*.
 
 
-# Bonus addition
+### Bonus addition
 if you want to take it to the next level and chat with your friends/family that are connected to the same WIFI network, 
 * replace *localhost* with your public network IP address which can be found from the WiFI network settings.
 [http://<YOUR_IPv4_Address>:10000/]
