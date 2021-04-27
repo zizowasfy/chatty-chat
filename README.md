@@ -9,7 +9,7 @@ needed to be installed for running this program.
 1) In the termminal, Pull the image from Docker Hub
 
 ```bash
-docker pull zizowasfy/chatty-chat:tagname
+docker pull zizowasfy/chatty-chat:latest
 ```
 
 2) Run the image in a container using the following command:
