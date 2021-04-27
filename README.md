@@ -9,13 +9,13 @@ needed to be installed for running this program.
 1) In the termminal, Pull the image from Docker Hub
 
 ```bash
-docker pull 1510213/chatty-chat:latest
+docker pull zizowasfy/chatty-chat:tagname
 ```
 
 2) Run the image in a container using the following command:
 
 ```bash
-docker run -p 10000:5000 1510213/chatty-chat
+docker run -p 10000:5000 zizowasfy/chatty-chat
 ```
 
 3) This creates a private server in the local network that can be accessed in any browser through the following *http* link 
