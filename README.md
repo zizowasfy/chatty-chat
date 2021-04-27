@@ -32,7 +32,7 @@ if you want to take it to the next level and chat with your friends/family that 
 
 ## Resources
 
-* [https://github.com/juli1/flask-chat]
+* [https://github.com/juli1/flask-chat](https://github.com/juli1/flask-chat)
 * [The Flask Website](http://flask.pocoo.org/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 * [Docker container for Flask](http://containertutorials.com/docker-compose/flask-simple-app.html)
