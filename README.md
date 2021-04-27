@@ -1,6 +1,6 @@
 # Chatty Chat
 
-This repo is based on [https://github.com/juli1/flask-chat] to make a Server-Client chat program in python using Flask framework. 
+This repo is based on [https://github.com/juli1/flask-chat](https://github.com/juli1/flask-chat) to make a Server-Client chat program in python using Flask framework. 
 
 This Program is Dockerized into a Docker image which can be used on any operating system without worrying about dependancies and packages 
 needed to be installed for running this program.
