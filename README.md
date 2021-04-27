@@ -20,12 +20,13 @@ docker run -p 10000:5000 zizowasfy/chatty-chat
 
 3) This creates a private server in the local network that can be accessed in any browser through the following *http* link 
 [http://localhost:10000/](http://localhost:10000/)
-Start with the user *admin*, password *admin*.
+Start with the user *admin*, password *admin*. And then it is possible to add arbitrary number of users. 
+Each user should login in different brower tab.
 
 
 ### Bonus addition
 if you want to take it to the next level and chat with your friends/family that are connected to the same WIFI network, 
-* replace *localhost* with your public network IP address which can be found from the WiFI network settings.
+* replace *localhost* with your public network IP address which can be found from the WiFI network settings and share it with your fellows.
 [http://<YOUR_IPv4_Address>:10000/](http://<YOUR_IPv4_Address>:10000/)
 
 
